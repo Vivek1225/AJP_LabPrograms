@@ -1,0 +1,17 @@
+.porsche{
+    background-color:red;
+    padding: 50px;
+}
+.Benz{
+    background-color: #83bd4f;
+    padding: 50px;
+}
+.BMW{
+    background-color: #c7ceca;
+    padding: 50px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
